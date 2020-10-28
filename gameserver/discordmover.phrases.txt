@@ -1,0 +1,73 @@
+"Phrases"
+{
+	
+	"Kick"
+	{
+		
+		"en" "You must link your Discord and Steam accounts in Legacy Hub's discord server. https://legacyhub.xyz/discord"
+		"es" "Debés haber vinculado tus cuentas con !discordmover en Discord antes de entrar. https://legacyhub.xyz/discord"
+		"pt" "Você deve ligar suas contas de Discord e Steam no discord da Legacy Hub. https://legacyhub.xyz/discord"
+		
+	}
+	
+	"Command Usage"
+	{
+		
+		"en" "Usage: sm_move <teams | pregame> / <user> <red/blu/pregame>"
+		"es" "Uso: sm_move <teams | pregame> / <usuario> <red/blu/pregame>"
+		"pt" "Uso: sm_move <teams | pregame> / <usuário> <red/blu/pregame>"
+		
+	}
+	
+	"Command Blocked"
+	{
+		
+		"#format" "{1:i}"
+		
+		"en" "You must wait {1} seconds before issuing this command."
+		"es" "Esperá {1} segundos antes de volver a usar este comando."
+		"pt" "Espere {1} segundos antes de utilizar este comando novamente."
+		
+	}
+	
+	"Moving Teams"
+	{
+		
+		"en" "Moving players to their team channels..."
+		"es" "Moviendo a los jugadores a sus canales de equipos..."
+		"pt" "Movendo aos jogadores pros seus canais das equipes..."
+		
+	}
+	
+	"Moving Pregame"
+	{
+		
+		"en" "Moving everyone back to pregame channel..."
+		"es" "Moviendo a todos de vuelta al canal pregame..."
+		"pt" "Movendo todo mundo pro canal de pregame..."
+		
+	}
+	
+	"Moving User"
+	{
+		
+		"#format" "{1:s},{2:s}"
+		
+		"en" "Moving {1} to the {2} channel..."
+		"es" "Moviendo a {1} al canal {2}..."
+		"pt" "Movendo {1} pro canal {2}..."
+		
+	}
+	
+	"JSON Error"
+	{
+		
+		"en" "Error while sending JSON."
+		"es" "Error en el envío del JSON."
+		"pt" "Erro no envio do JSON."
+		
+	}
+	
+	
+	
+}
